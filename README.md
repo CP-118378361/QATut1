@@ -25,19 +25,13 @@ I produced a GymWebApp that allowed for the following
 - AgeSection
 - Apparatus
 - GymnastID
-3. An Event Table that contained the following values:
--ID
--Name
-4.A competes Table taht contained the following values:
--CompetingDate
--ID
--GymnastID
--EventID
+
 
 Architecture
 Database Structure
 Please see below an ERD showing the structure a relationships between data entities.
-[ERD .pdf](https://github.com/CP-118378361/QATut1/files/6434822/ERD.pdf)
+[ERD .pdf](https://github.com/CP-118378361/QATut1/files/6435488/ERD.pdf)
+
 
 Website GUI
 Please see attached below my balsamiq wireframes[GUIS.pdf](https://github.com/CP-118378361/QATut1/files/6434856/GUIS.pdf)
